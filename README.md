@@ -31,11 +31,11 @@ WhatsApp Bot
 
 ## `SCAN QR`
 
-[`Click Here`](https://replit.com/@HYPER-MOD/Queen-Alexa-QR-Code)
+[`Click Here`](https://replit.com/@AdithyanMS/Queen-Alexa-QR-Code)
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/session.json#L1)
+[`Click Here`](https://github.com/ponnusachu84/Queen-Alexa/blob/main/session.json#L1)
 
 ## `SETTING`
 
